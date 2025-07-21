@@ -1,0 +1,9 @@
+[submodule "MNS-BouncyIcon"]
+	path = MNS-BouncyIcon
+	url = https://github.com/RobinsAviary/MNS-BouncyIcon
+[submodule "MNS-BasicAnim"]
+	path = MNS-BasicAnim
+	url = https://github.com/RobinsAviary/MNS-BasicAnim
+[submodule "MNS-TransRights"]
+	path = MNS-TransRights
+	url = https://github.com/RobinsAviary/MNS-TransRights
